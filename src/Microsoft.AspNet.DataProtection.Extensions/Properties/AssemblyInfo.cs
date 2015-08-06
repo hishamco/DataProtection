@@ -5,5 +5,5 @@ using System;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Microsoft.AspNet.DataProtection.Extensions.Test")]
+[assembly: InternalsVisibleTo("Microsoft.AspNet.DataProtection.Extensions.Tests")]
 [assembly: AssemblyMetadata("Serviceable", "True")]
