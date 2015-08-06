@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 
 [assembly: InternalsVisibleTo("Microsoft.AspNet.Cryptography.Internal.Tests")]
 [assembly: InternalsVisibleTo("Microsoft.AspNet.Cryptography.KeyDerivation")]
-[assembly: InternalsVisibleTo("Microsoft.AspNet.Cryptography.KeyDerivation.Test")]
+[assembly: InternalsVisibleTo("Microsoft.AspNet.Cryptography.KeyDerivation.Tests")]
 [assembly: InternalsVisibleTo("Microsoft.AspNet.DataProtection")]
 [assembly: InternalsVisibleTo("Microsoft.AspNet.DataProtection.Abstractions.Test")]
 [assembly: InternalsVisibleTo("Microsoft.AspNet.DataProtection.Test")]

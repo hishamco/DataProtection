@@ -5,5 +5,5 @@ using System;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Microsoft.AspNet.Cryptography.KeyDerivation.Test")]
+[assembly: InternalsVisibleTo("Microsoft.AspNet.Cryptography.KeyDerivation.Tests")]
 [assembly: AssemblyMetadata("Serviceable", "True")]
