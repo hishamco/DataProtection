@@ -3,7 +3,7 @@
 
 using System;
 using System.Linq;
-using Microsoft.AspNet.DataProtection.Test.Shared;
+using Microsoft.AspNet.DataProtection.Tests.Shared;
 using Microsoft.AspNet.Testing.xunit;
 using Xunit;
 
